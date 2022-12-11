@@ -61,7 +61,7 @@ Version 1.0
 
 ## Authors
 
-Anil Sathyan
+
 
 ## Acknowledgments
 * "https://kushalvyas.github.io/BOV.html"
